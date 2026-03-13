@@ -10,14 +10,7 @@
 
 ### 💻 Tech Stack
 
-<img src="./public/icons/html.png" width="30" height="30" alt="HTML5" />
-<img src="./public/icons/css.png" width="30" height="30" alt="CSS3" />
-<img src="./public/icons/javascript.png" width="33" height="33" alt="Javascript" />
-<img src="./public/icons/typescript.png" width="35" height="35" alt="Typescript" />
-<img src="./public/icons/bootstrap.png" width="35" height="35" alt="Typescript" />
-<img src="./public/icons/sass.png" width="35" height="35" alt="Typescript" />
-<img src="./public/icons/git.png" width="35" height="35" alt="Typescript" />
-<img src="./public/icons/vs-code.png" width="35" height="35" alt="Typescript" />
+<img src="./public/icons/html.png" width="30" height="30" alt="HTML5" /><img src="./public/icons/css.png" width="30" height="30" alt="CSS3" /><img src="./public/icons/javascript.png" width="33" height="33" alt="Javascript" /><img src="./public/icons/typescript.png" width="35" height="35" alt="Typescript" /><img src="./public/icons/bootstrap.png" width="35" height="35" alt="Typescript" /><img src="./public/icons/sass.png" width="35" height="35" alt="Typescript" /><img src="./public/icons/git.png" width="35" height="35" alt="Typescript" /><img src="./public/icons/vs-code.png" width="35" height="35" alt="Typescript" />
 
 ### 💻 Developed Projects
 
