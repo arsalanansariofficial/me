@@ -39,14 +39,7 @@
    Screens <br>
    <img src="./public/projects/file-sorter/1.jpeg" alt="Home Page" />
 
-4. ## File Sorter
-
-   ### Project based on Node.js, it sorts and groups the files inside a folder according to the date and month of file in which it was created or taken.
-
-   Screens <br>
-   <img src="./public/projects/file-sorter/1.jpeg" alt="Home Page" />
-
-5. ## Tic Tac Toe
+4. ## Tic Tac Toe
 
    ### Project based on React.js & Typescript, lets users play Tic Tac Toe.
 
@@ -55,7 +48,7 @@
    <img src="./public/projects/tic-tac-toe/2.jpeg" alt="Home Page" />
    <img src="./public/projects/tic-tac-toe/3.jpeg" alt="Home Page" />
 
-6. ## Task Manger App
+5. ## Task Manger App
 
    ### Project based on React.js, it allows users to create tasks.
 
@@ -65,7 +58,7 @@
    <img src="./public/projects/task-manager/3.jpeg" alt="Home Page" />
    <img src="./public/projects/task-manager/4.jpeg" alt="Home Page" />
 
-7. ## Quiz App
+6. ## Quiz App
 
    ### Project based on React.js, just a basic quiz application.
 
@@ -73,14 +66,14 @@
    <img src="./public/projects/quiz-app/1.jpeg" alt="Home Page" />
    <img src="./public/projects/quiz-app/2.jpeg" alt="Home Page" />
 
-8. ## Movie App
+7. ## Movie App
 
    ### Project based on React.js, it allow users to find latest movie release.
 
    Screens <br>
    <img src="./public/projects/movie-app/1.jpeg" alt="Home Page" />
 
-9. ## Food Pantry
+8. ## Food Pantry
 
    ### Project based on React.js, a simple cart application which lets you add food displayed in the list to the shopping cart.
 
@@ -89,7 +82,7 @@
    <img src="./public/projects/food-pantry/2.jpeg" alt="Home Page" />
    <img src="./public/projects/food-pantry/3.jpeg" alt="Home Page" />
 
-10. ## Consultation App
+9. ## Consultation App
 
     ### Project based on React.js & Typescript, it lets users to consult with the doctors available.
 
@@ -100,115 +93,115 @@
     <img src="./public/projects/consultation-app/4.jpeg" alt="Home Page" />
     <img src="./public/projects/consultation-app/5.jpeg" alt="Home Page" />
 
-11. ## [Age Calculator](https://arsalanansariofficial.github.io/age-calculator-page/)
+10. ## [Age Calculator](https://arsalanansariofficial.github.io/age-calculator-page/)
 
     Screens <br>
     <img src="./public/projects/age-calculator/1.jpeg" alt="Home Page" />
     <img src="./public/projects/age-calculator/2.jpeg" alt="Home Page" />
 
-12. ## [Article Preview](https://arsalanansariofficial.github.io/article-preview-page/)
+11. ## [Article Preview](https://arsalanansariofficial.github.io/article-preview-page/)
 
     Screens <br>
     <img src="./public/projects/article-preview/1.jpeg" alt="Home Page" />
     <img src="./public/projects/article-preview/2.jpeg" alt="Home Page" />
 
-13. ## [Base Home Page](https://arsalanansariofficial.github.io/base-home-page/)
+12. ## [Base Home Page](https://arsalanansariofficial.github.io/base-home-page/)
 
     Screens <br>
     <img src="./public/projects/base-home-page/1.jpeg" alt="Home Page" />
     <img src="./public/projects/base-home-page/2.jpeg" alt="Home Page" />
 
-14. ## [NFT Card](https://arsalanansariofficial.github.io/card-page/)
+13. ## [NFT Card](https://arsalanansariofficial.github.io/card-page/)
 
     Screens <br>
     <img src="./public/projects/nft-card/1.jpeg" alt="Home Page" />
     <img src="./public/projects/nft-card/2.jpeg" alt="Home Page" />
 
-15. ## [Expense Chart](https://arsalanansariofficial.github.io/expense-chart-page/)
+14. ## [Expense Chart](https://arsalanansariofficial.github.io/expense-chart-page/)
 
     Screens <br>
     <img src="./public/projects/expense-chart/1.jpeg" alt="Home Page" />
     <img src="./public/projects/expense-chart/2.jpeg" alt="Home Page" />
 
-16. ## [Interactive Card Details](https://arsalanansariofficial.github.io/interactive-card-details-page/)
+15. ## [Interactive Card Details](https://arsalanansariofficial.github.io/interactive-card-details-page/)
 
     Screens <br>
     <img src="./public/projects/interactive-card-details-page/1.jpeg" alt="Home Page" />
     <img src="./public/projects/interactive-card-details-page/2.jpeg" alt="Home Page" />
 
-17. ## [Multistep Form](https://arsalanansariofficial.github.io/multip-step-form-page/)
+16. ## [Multistep Form](https://arsalanansariofficial.github.io/multip-step-form-page/)
 
     Screens <br>
     <img src="./public/projects/multi-step-form/1.jpeg" alt="Home Page" />
     <img src="./public/projects/multi-step-form/2.jpeg" alt="Home Page" />
 
-18. ## [Newsletter](https://arsalanansariofficial.github.io/newsletter-page/)
+17. ## [Newsletter](https://arsalanansariofficial.github.io/newsletter-page/)
 
     Screens <br>
     <img src="./public/projects/newsletter/1.jpeg" alt="Home Page" />
     <img src="./public/projects/newsletter/2.jpeg" alt="Home Page" />
 
-19. ## [Notifications Page](https://arsalanansariofficial.github.io/notifications-page/)
+18. ## [Notifications Page](https://arsalanansariofficial.github.io/notifications-page/)
 
     Screens <br>
     <img src="./public/projects/notifications-page/1.jpeg" alt="Home Page" />
     <img src="./public/projects/notifications-page/2.jpeg" alt="Home Page" />
 
-20. ## [Order Summary Page](https://arsalanansariofficial.github.io/order-summary-page/)
+19. ## [Order Summary Page](https://arsalanansariofficial.github.io/order-summary-page/)
 
     Screens <br>
     <img src="./public/projects/order-summary-page/1.jpeg" alt="Home Page" />
     <img src="./public/projects/order-summary-page/2.jpeg" alt="Home Page" />
 
-21. ## [Ping Home Page](https://arsalanansariofficial.github.io/ping-home-page/)
+20. ## [Ping Home Page](https://arsalanansariofficial.github.io/ping-home-page/)
 
     Screens <br>
     <img src="./public/projects/ping-home-page/1.jpeg" alt="Home Page" />
     <img src="./public/projects/ping-home-page/2.jpeg" alt="Home Page" />
 
-22. ## [Product Page](https://arsalanansariofficial.github.io/product-page/)
+21. ## [Product Page](https://arsalanansariofficial.github.io/product-page/)
 
     Screens <br>
     <img src="./public/projects/product-page/1.jpeg" alt="Home Page" />
     <img src="./public/projects/product-page/2.jpeg" alt="Home Page" />
 
-23. ## [Profile Card Page](https://arsalanansariofficial.github.io/profile-card-page/)
+22. ## [Profile Card Page](https://arsalanansariofficial.github.io/profile-card-page/)
 
     Screens <br>
     <img src="./public/projects/profile-card/1.jpeg" alt="Home Page" />
     <img src="./public/projects/profile-card/2.jpeg" alt="Home Page" />
 
-24. ## [Qr Page](https://arsalanansariofficial.github.io/qr-page/)
+23. ## [Qr Page](https://arsalanansariofficial.github.io/qr-page/)
 
     Screens <br>
     <img src="./public/projects/qr-page/1.jpeg" alt="Home Page" />
     <img src="./public/projects/qr-page/2.jpeg" alt="Home Page" />
 
-25. ## [Rating Page](https://arsalanansariofficial.github.io/rating-page/)
+24. ## [Rating Page](https://arsalanansariofficial.github.io/rating-page/)
 
     Screens <br>
     <img src="./public/projects/rating-page/1.jpeg" alt="Home Page" />
     <img src="./public/projects/rating-page/2.jpeg" alt="Home Page" />
 
-26. ## [Recipe Page](https://arsalanansariofficial.github.io/recipe-page/)
+25. ## [Recipe Page](https://arsalanansariofficial.github.io/recipe-page/)
 
     Screens <br>
     <img src="./public/projects/recipe-page/1.jpeg" alt="Home Page" />
     <img src="./public/projects/recipe-page/2.jpeg" alt="Home Page" />
 
-27. ## [Stats Preview Page](https://arsalanansariofficial.github.io/stats-preview-card-page/)
+26. ## [Stats Preview Page](https://arsalanansariofficial.github.io/stats-preview-card-page/)
 
     Screens <br>
     <img src="./public/projects/stats-preview-page/1.jpeg" alt="Home Page" />
     <img src="./public/projects/stats-preview-page/2.jpeg" alt="Home Page" />
 
-28. ## [Summary Page](https://arsalanansariofficial.github.io/summary-page/)
+27. ## [Summary Page](https://arsalanansariofficial.github.io/summary-page/)
 
     Screens <br>
     <img src="./public/projects/summary-page/1.jpeg" alt="Home Page" />
     <img src="./public/projects/summary-page/2.jpeg" alt="Home Page" />
 
-29. ## [3 Column Preview Page](https://arsalanansariofficial.github.io/three-column-preview-page/)
+28. ## [3 Column Preview Page](https://arsalanansariofficial.github.io/three-column-preview-page/)
 
     Screens <br>
     <img src="./public/projects/3-column-layout/1.jpeg" alt="Home Page" />
