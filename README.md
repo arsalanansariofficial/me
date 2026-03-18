@@ -10,7 +10,7 @@
 
 ### 💻 Tech Stack
 
-<img src="./public/icons/html.png" width="30" height="30" alt="HTML5" /><img src="./public/icons/css.png" width="30" height="30" alt="CSS3" /><img src="./public/icons/javascript.png" width="33" height="33" alt="Javascript" /><img src="./public/icons/typescript.png" width="35" height="35" alt="Typescript" /><img src="./public/icons/bootstrap.png" width="35" height="35" alt="Typescript" /><img src="./public/icons/sass.png" width="35" height="35" alt="Typescript" /><img src="./public/icons/git.png" width="35" height="35" alt="Typescript" /><img src="./public/icons/vs-code.png" width="35" height="35" alt="Typescript" />
+<img src="public/img/icons/html.png" width="30" height="30" alt="HTML5" />&nbsp;&nbsp;<img src="public/img/icons/css.png" width="30" height="30" alt="CSS3" />&nbsp;&nbsp;<img src="public/img/icons/bootstrap.png" width="35" height="35" alt="Bootstrap" />&nbsp;&nbsp;<img src="public/img/icons/tailwind.svg" width="35" height="35" alt="Tailwind" />&nbsp;&nbsp;<img src="public/img/icons/sass.png" width="35" height="35" alt="SASS" />&nbsp;&nbsp;<img src="public/img/icons/javascript.png" width="33" height="33" alt="Javascript" />&nbsp;&nbsp;<img src="public/img/icons/typescript.png" width="35" height="35" alt="Typescript" />&nbsp;&nbsp;<img src="public/img/icons/nodejs.png" width="35" height="35" alt="Node JS" />&nbsp;&nbsp;<img src="public/img/icons/reactjs.png" width="35" height="35" alt="React JS" />&nbsp;&nbsp;<img src="public/img/icons/nextjs.png" width="35" height="35" alt="Next JS" />&nbsp;&nbsp;<img src="public/img/icons/git.png" width="35" height="35" alt="Git" />&nbsp;&nbsp;<img src="public/img/icons/vs-code.png" width="35" height="35" alt="Visual Studio Code" />
 
 ### 💻 Developed Projects
 
