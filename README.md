@@ -84,14 +84,14 @@
 
 9. ## Consultation App
 
-    ### Project based on React.js & Typescript, it lets users to consult with the doctors available.
+   ### Project based on React.js & Typescript, it lets users to consult with the doctors available.
 
-    Screens <br>
-    <img src="./public/projects/consultation-app/1.jpeg" alt="Home Page" />
-    <img src="./public/projects/consultation-app/2.jpeg" alt="Home Page" />
-    <img src="./public/projects/consultation-app/3.jpeg" alt="Home Page" />
-    <img src="./public/projects/consultation-app/4.jpeg" alt="Home Page" />
-    <img src="./public/projects/consultation-app/5.jpeg" alt="Home Page" />
+   Screens <br>
+   <img src="./public/projects/consultation-app/1.jpeg" alt="Home Page" />
+   <img src="./public/projects/consultation-app/2.jpeg" alt="Home Page" />
+   <img src="./public/projects/consultation-app/3.jpeg" alt="Home Page" />
+   <img src="./public/projects/consultation-app/4.jpeg" alt="Home Page" />
+   <img src="./public/projects/consultation-app/5.jpeg" alt="Home Page" />
 
 10. ## [Age Calculator](https://arsalanansariofficial.github.io/age-calculator-page/)
 

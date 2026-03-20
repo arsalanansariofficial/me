@@ -21,75 +21,88 @@
     "github": "https://github.com/arsalanansariofficial",
     "website": "https://arsalanansariofficial.github.io/arsalanansariofficial",
     "discord": "https://discordapp.com/users/302050872383242240/1264955363510452377",
-    "email": "mailto:theansaricompany@gmail.com?subject=Mail%20To%20Arsalan%20Ansari"
+    "email": "mailto:theansaricompany@gmail.com?subject=Mail%20To%20Arsalan%20Ansari",
+    "resume": "/about/arsalan-ansari_resume.pdf"
   },
   "projects": [
     {
       "category": "Next JS",
+      "title": "E-Commerce Application",
       "image": "/img/projects/project-1.png",
-      "title": "E-Commerce Application"
+      "href": "https://github.com/arsalanansariofficial/apps/tree/main/e-commerce"
     },
     {
       "category": "React JS",
+      "title": "Consultation Application",
       "image": "/img/projects/project-2.png",
-      "title": "Consultation Application"
+      "href": "https://github.com/arsalanansariofficial/apps/tree/main/consultation-app"
     },
     {
       "category": "Node JS",
+      "title": "Weather Application",
       "image": "/img/projects/project-3.png",
-      "title": "Weather Application"
+      "href": "https://github.com/arsalanansariofficial/next-js/tree/main/weather"
     },
     {
       "title": "Tic Tac Toe",
       "category": "React JS",
-      "image": "/img/projects/project-4.png"
+      "image": "/img/projects/project-4.png",
+      "href": "https://github.com/arsalanansariofficial/react-js/tree/main/tic-tac-toe"
     },
     {
       "title": "React Quiz",
       "category": "React JS",
-      "image": "/img/projects/project-5.png"
+      "image": "/img/projects/project-5.png",
+      "href": "https://github.com/arsalanansariofficial/react-js/tree/main/react-quiz"
     },
     {
       "category": "React JS",
       "title": "Task Manager",
-      "image": "/img/projects/project-6.png"
+      "image": "/img/projects/project-6.png",
+      "href": "https://github.com/arsalanansariofficial/apps/tree/main/task-manager"
     },
     {
       "category": "React JS",
       "title": "Expense Tracker",
-      "image": "/img/projects/project-7.png"
+      "image": "/img/projects/project-7.png",
+      "href": "https://github.com/arsalanansariofficial/react-js/tree/main/expense-tracker"
     },
     {
       "category": "Next JS",
+      "title": "Social Application",
       "image": "/img/projects/project-8.png",
-      "title": "Social Application"
+      "href": "https://github.com/arsalanansariofficial/apps/tree/main/social"
     },
     {
       "category": "React JS",
       "title": "Project Manager",
-      "image": "/img/projects/project-9.png"
+      "image": "/img/projects/project-9.png",
+      "href": "https://github.com/arsalanansariofficial/react-js/tree/main/project-manager"
     }
   ],
   "blogs": [
     {
       "date": "2024-07-05",
       "category": "Next JS",
-      "image": "/img/blogs/blog-1.png",
       "title": "E-Commerce Application",
+      "image": "/img/blogs/blog-1.png",
+      "href": "https://github.com/arsalanansariofficial/apps/tree/main/e-commerce",
       "description": "🎉 Project based on Next.js just a rather simple E-commerce application."
     },
     {
       "date": "2021-11-10",
       "category": "React JS",
-      "image": "/img/blogs/blog-2.png",
       "title": "Consultation Application",
+      "image": "/img/blogs/blog-2.png",
+      "href": "https://github.com/arsalanansariofficial/apps/tree/main/consultation-app",
       "description": "🎉 Project based on React.js & Typescript, it lets users to consult with the doctors available."
     },
     {
       "date": "2022-05-03",
       "category": "Next JS",
-      "image": "/img/blogs/blog-3.png",
       "title": "Weather Application",
+      "image": "/img/blogs/blog-3.png",
+      "href": "https://github.com/arsalanansariofficial/next-js/tree/main/weather",
       "description": "🎉 Project based on Next.js, Tailwind CSS & Shad CN, just a rather simple weather application."
     },
     {
@@ -97,41 +110,47 @@
       "category": "React JS",
       "title": "Tic Tac Toe",
       "image": "/img/blogs/blog-4.png",
+      "href": "https://github.com/arsalanansariofficial/react-js/tree/main/tic-tac-toe",
       "description": "🎉Project based on React.js & Typescript, lets users play Tic Tac Toe."
     },
     {
       "date": "2023-01-10",
-      "title": "React Quiz",
       "category": "React JS",
+      "title": "React Quiz",
       "image": "/img/blogs/blog-5.png",
+      "href": "https://github.com/arsalanansariofficial/react-js/tree/main/react-quiz",
       "description": "🎉Project based on React.js, just a basic quiz application."
-    },
-    {
-      "date": "2024-05-03",
-      "category": "Next JS",
-      "image": "/img/blogs/blog-6.png",
-      "title": "Social Application",
-      "description": "🎉Project based on Next.js, it provides an interface for the user to upload images."
     },
     {
       "date": "2022-07-05",
       "category": "React JS",
       "title": "Task Manager",
       "image": "/img/blogs/blog-1.png",
+      "href": "https://github.com/arsalanansariofficial/apps/tree/main/task-manager",
       "description": "🎉Project based on React.js, it allows users to create tasks."
     },
     {
       "date": "2022-11-07",
       "category": "React JS",
-      "image": "/img/blogs/blog-2.png",
       "title": "Expense Tracker",
+      "image": "/img/blogs/blog-2.png",
+      "href": "https://github.com/arsalanansariofficial/react-js/tree/main/expense-tracker",
       "description": "🎉Project based on React.js, just a simple application works in a local environment which can track expense information based on the date in a specific year."
+    },
+    {
+      "date": "2024-05-03",
+      "category": "Next JS",
+      "title": "Social Application",
+      "image": "/img/blogs/blog-6.png",
+      "href": "https://github.com/arsalanansariofficial/apps/tree/main/social",
+      "description": "🎉Project based on Next.js, it provides an interface for the user to upload images."
     },
     {
       "date": "2022-11-15",
       "category": "React JS",
-      "image": "/img/blogs/blog-3.png",
       "title": "Project Manager",
+      "image": "/img/blogs/blog-3.png",
+      "href": "https://github.com/arsalanansariofficial/react-js/tree/main/project-manager",
       "description": "🎉Project based on React.js, just a simple project manager application."
     }
   ],

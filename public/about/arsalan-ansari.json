@@ -1,7 +1,7 @@
 {
   "name": "Arsalan Ansari",
   "title": "Full Stack Developer",
-  "profilePicture": "/img/profile/person.png",
+  "profilePicture": "public/img/profile/person.png",
   "projectCategories": ["All", "Next JS", "React JS", "Node JS"],
   "articleCategories": ["About", "Resume", "Portfolio", "Blog", "Contact"],
   "contactDetails": {
@@ -21,117 +21,136 @@
     "github": "https://github.com/arsalanansariofficial",
     "website": "https://arsalanansariofficial.github.io/arsalanansariofficial",
     "discord": "https://discordapp.com/users/302050872383242240/1264955363510452377",
-    "email": "mailto:theansaricompany@gmail.com?subject=Mail%20To%20Arsalan%20Ansari"
+    "email": "mailto:theansaricompany@gmail.com?subject=Mail%20To%20Arsalan%20Ansari",
+    "resume": "public/about/arsalan-ansari_resume.pdf"
   },
   "projects": [
     {
       "category": "Next JS",
-      "image": "/img/projects/project-1.png",
-      "title": "E-Commerce Application"
+      "title": "E-Commerce Application",
+      "image": "public/img/projects/project-1.png",
+      "href": "https://github.com/arsalanansariofficial/apps/tree/main/e-commerce"
     },
     {
       "category": "React JS",
-      "image": "/img/projects/project-2.png",
-      "title": "Consultation Application"
+      "title": "Consultation Application",
+      "image": "public/img/projects/project-2.png",
+      "href": "https://github.com/arsalanansariofficial/apps/tree/main/consultation-app"
     },
     {
       "category": "Node JS",
-      "image": "/img/projects/project-3.png",
-      "title": "Weather Application"
+      "title": "Weather Application",
+      "image": "public/img/projects/project-3.png",
+      "href": "https://github.com/arsalanansariofficial/next-js/tree/main/weather"
     },
     {
       "title": "Tic Tac Toe",
       "category": "React JS",
-      "image": "/img/projects/project-4.png"
+      "image": "public/img/projects/project-4.png",
+      "href": "https://github.com/arsalanansariofficial/react-js/tree/main/tic-tac-toe"
     },
     {
       "title": "React Quiz",
       "category": "React JS",
-      "image": "/img/projects/project-5.png"
+      "image": "public/img/projects/project-5.png",
+      "href": "https://github.com/arsalanansariofficial/react-js/tree/main/react-quiz"
     },
     {
       "category": "React JS",
       "title": "Task Manager",
-      "image": "/img/projects/project-6.png"
+      "image": "public/img/projects/project-6.png",
+      "href": "https://github.com/arsalanansariofficial/apps/tree/main/task-manager"
     },
     {
       "category": "React JS",
       "title": "Expense Tracker",
-      "image": "/img/projects/project-7.png"
+      "image": "public/img/projects/project-7.png",
+      "href": "https://github.com/arsalanansariofficial/react-js/tree/main/expense-tracker"
     },
     {
       "category": "Next JS",
-      "image": "/img/projects/project-8.png",
-      "title": "Social Application"
+      "title": "Social Application",
+      "image": "public/img/projects/project-8.png",
+      "href": "https://github.com/arsalanansariofficial/apps/tree/main/social"
     },
     {
       "category": "React JS",
       "title": "Project Manager",
-      "image": "/img/projects/project-9.png"
+      "image": "public/img/projects/project-9.png",
+      "href": "https://github.com/arsalanansariofficial/react-js/tree/main/project-manager"
     }
   ],
   "blogs": [
     {
       "date": "2024-07-05",
       "category": "Next JS",
-      "image": "/img/blogs/blog-1.png",
       "title": "E-Commerce Application",
+      "image": "public/img/blogs/blog-1.png",
+      "href": "https://github.com/arsalanansariofficial/apps/tree/main/e-commerce",
       "description": "🎉 Project based on Next.js just a rather simple E-commerce application."
     },
     {
       "date": "2021-11-10",
       "category": "React JS",
-      "image": "/img/blogs/blog-2.png",
       "title": "Consultation Application",
+      "image": "public/img/blogs/blog-2.png",
+      "href": "https://github.com/arsalanansariofficial/apps/tree/main/consultation-app",
       "description": "🎉 Project based on React.js & Typescript, it lets users to consult with the doctors available."
     },
     {
       "date": "2022-05-03",
       "category": "Next JS",
-      "image": "/img/blogs/blog-3.png",
       "title": "Weather Application",
+      "image": "public/img/blogs/blog-3.png",
+      "href": "https://github.com/arsalanansariofficial/next-js/tree/main/weather",
       "description": "🎉 Project based on Next.js, Tailwind CSS & Shad CN, just a rather simple weather application."
     },
     {
       "date": "2022-09-05",
       "category": "React JS",
       "title": "Tic Tac Toe",
-      "image": "/img/blogs/blog-4.png",
+      "image": "public/img/blogs/blog-4.png",
+      "href": "https://github.com/arsalanansariofficial/react-js/tree/main/tic-tac-toe",
       "description": "🎉Project based on React.js & Typescript, lets users play Tic Tac Toe."
     },
     {
       "date": "2023-01-10",
-      "title": "React Quiz",
       "category": "React JS",
-      "image": "/img/blogs/blog-5.png",
+      "title": "React Quiz",
+      "image": "public/img/blogs/blog-5.png",
+      "href": "https://github.com/arsalanansariofficial/react-js/tree/main/react-quiz",
       "description": "🎉Project based on React.js, just a basic quiz application."
-    },
-    {
-      "date": "2024-05-03",
-      "category": "Next JS",
-      "image": "/img/blogs/blog-6.png",
-      "title": "Social Application",
-      "description": "🎉Project based on Next.js, it provides an interface for the user to upload images."
     },
     {
       "date": "2022-07-05",
       "category": "React JS",
       "title": "Task Manager",
-      "image": "/img/blogs/blog-1.png",
+      "image": "public/img/blogs/blog-1.png",
+      "href": "https://github.com/arsalanansariofficial/apps/tree/main/task-manager",
       "description": "🎉Project based on React.js, it allows users to create tasks."
     },
     {
       "date": "2022-11-07",
       "category": "React JS",
-      "image": "/img/blogs/blog-2.png",
       "title": "Expense Tracker",
+      "image": "public/img/blogs/blog-2.png",
+      "href": "https://github.com/arsalanansariofficial/react-js/tree/main/expense-tracker",
       "description": "🎉Project based on React.js, just a simple application works in a local environment which can track expense information based on the date in a specific year."
+    },
+    {
+      "date": "2024-05-03",
+      "category": "Next JS",
+      "title": "Social Application",
+      "image": "public/img/blogs/blog-6.png",
+      "href": "https://github.com/arsalanansariofficial/apps/tree/main/social",
+      "description": "🎉Project based on Next.js, it provides an interface for the user to upload images."
     },
     {
       "date": "2022-11-15",
       "category": "React JS",
-      "image": "/img/blogs/blog-3.png",
       "title": "Project Manager",
+      "image": "public/img/blogs/blog-3.png",
+      "href": "https://github.com/arsalanansariofficial/react-js/tree/main/project-manager",
       "description": "🎉Project based on React.js, just a simple project manager application."
     }
   ],
@@ -147,22 +166,22 @@
   ],
   "services": [
     {
-      "image": "/img/icons/nodejs.png",
+      "image": "public/img/icons/nodejs.png",
       "category": "Backend Development",
       "title": "I develop backend API's using Node.js & Express."
     },
     {
-      "image": "/img/icons/reactjs.png",
+      "image": "public/img/icons/reactjs.png",
       "category": "Frontend Development",
       "title": "I develop frontend apps using React.js."
     },
     {
-      "image": "/img/icons/nextjs.png",
+      "image": "public/img/icons/nextjs.png",
       "category": "Full Stack Development",
       "title": "Enthusiast in building full-stack apps with Next.js"
     },
     {
-      "image": "/img/icons/bootstrap.png",
+      "image": "public/img/icons/bootstrap.png",
       "category": "Web Design",
       "title": "I make high-quality designs using Figma."
     }
@@ -170,16 +189,16 @@
   "testimonials": [
     {
       "name": "E-commerce App",
-      "image": "/img/icons/nextjs.png",
+      "image": "public/img/icons/nextjs.png",
       "comment": "Just a rather simple E-commerce Application, simulated payment and checkout pages using Stripe, database using Prisma built in session based user authentication."
     },
     {
       "name": "Task Manager",
-      "image": "/img/icons/nodejs.png",
+      "image": "public/img/icons/nodejs.png",
       "comment": "Huge full-stack application comprised of many technologies like Node JS & Express for backend API's, database is managed through MongoDB and Mongoose and React JS for the frontend of the application."
     },
     {
-      "image": "/img/icons/nextjs.png",
+      "image": "public/img/icons/nextjs.png",
       "name": "Social Application",
       "comment": "This is a basic prototype application that I am exprementing on developing a photo sharing like application, built with Next JS and also using Socket.io for real-time integration with the client and server."
     }
@@ -187,52 +206,52 @@
   "clients": [
     {
       "name": "HTML",
-      "image": "/img/icons/html.png",
+      "image": "public/img/icons/html.png",
       "website": "https://developer.mozilla.org/en-US/docs/Web/HTML"
     },
     {
       "name": "CSS",
-      "image": "/img/icons/css.png",
+      "image": "public/img/icons/css.png",
       "website": "https://developer.mozilla.org/en-US/docs/Web/CSS"
     },
     {
       "name": "JavaScript",
-      "image": "/img/icons/javascript.png",
+      "image": "public/img/icons/javascript.png",
       "website": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     },
     {
       "name": "TypeScript",
-      "image": "/img/icons/typescript.png",
+      "image": "public/img/icons/typescript.png",
       "website": "https://www.typescriptlang.org"
     },
     {
       "name": "React JS",
-      "image": "/img/icons/reactjs.png",
+      "image": "public/img/icons/reactjs.png",
       "website": "https://react.dev/learn"
     },
     {
       "name": "Next JS",
-      "image": "/img/icons/nextjs.png",
+      "image": "public/img/icons/nextjs.png",
       "website": "https://nextjs.org/docs"
     },
     {
       "name": "Bootstrap",
-      "image": "/img/icons/bootstrap.png",
+      "image": "public/img/icons/bootstrap.png",
       "website": "https://getbootstrap.com/docs/5.3/getting-started/introduction/"
     },
     {
       "name": "Sass",
-      "image": "/img/icons/sass.png",
+      "image": "public/img/icons/sass.png",
       "website": "https://sass-lang.com/documentation/"
     },
     {
       "name": "Git",
-      "image": "/img/icons/git.png",
+      "image": "public/img/icons/git.png",
       "website": "https://docs.github.com/en"
     },
     {
       "name": "Visual Studio Code",
-      "image": "/img/icons/vs-code.png",
+      "image": "public/img/icons/vs-code.png",
       "website": "https://code.visualstudio.com/Download"
     }
   ],

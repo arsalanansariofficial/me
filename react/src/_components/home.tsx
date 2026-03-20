@@ -55,8 +55,8 @@ export default function Home() {
         </div>
         <div
           className={cn(
-            `sidebar_more-info absolute h-0 w-0 scale-0 space-y-4 lg:static lg:h-auto lg:w-auto lg:scale-100`,
-            isAccordianOpen && 'scale-100 static h-auto w-auto'
+            `sidebar_more-info space-y-4 lg:static lg:h-auto lg:w-auto lg:scale-100`,
+            !isAccordianOpen && 'hidden'
           )}
         >
           <ul className="info_contact-list grid items-start gap-4 gap-y-4 border-b border-t border-jet py-4 sm:grid-cols-2 md:grid-cols-2 md:gap-8 md:gap-y-8 md:py-10 lg:grid-cols-1 lg:gap-4 lg:border-b-0 lg:py-4">
@@ -97,6 +97,9 @@ export default function Home() {
             </a>
             <a href={person.social.website} className="text-light-gray-70">
               <Radix.Link2Icon />
+            </a>
+            <a href={person.social.resume} className="text-light-gray-70">
+              <Radix.FileTextIcon />
             </a>
           </div>
         </div>
@@ -410,7 +413,7 @@ export default function Home() {
                 {filteredProjects.map((project, index) => {
                   return (
                     <li key={index} className="project-list_item">
-                      <a href={`#${project.title}`} className=" ">
+                      <a href={project.href} className="">
                         <figure className="item_image-box relative mb-4 aspect-square overflow-hidden rounded-xl before:absolute before:inset-0 before:z-10 before:hidden before:rounded-xl before:bg-[#00000080] before:content-[''] hover:before:block">
                           <div className="image-box_icon-box absolute left-1/2 top-1/2 z-20 hidden aspect-square -translate-x-1/2 -translate-y-1/2 rounded-xl bg-jet p-4">
                             <Radix.EyeOpenIcon className="text-orange-yellow-crayola" />
@@ -448,7 +451,7 @@ export default function Home() {
                   return (
                     <li key={index} className="blog-list_item">
                       <a
-                        href={`#${blog.title}`}
+                        href={blog.href}
                         className="relative z-10 bg-border-gradient-onyx shadow-shadow-4 before:absolute before:inset-0 before:-z-10 before:block before:rounded-xl before:border-white-1 before:bg-eerie-black-1 before:content-['']"
                       >
                         <figure className="item_image-box relative mb-4 aspect-video overflow-hidden rounded-xl before:absolute before:inset-0 before:z-10 before:hidden before:rounded-xl before:bg-[#00000080] before:content-[''] hover:before:block">
